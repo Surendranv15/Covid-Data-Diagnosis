@@ -13,3 +13,18 @@ Live Cases
 Virtual Representation
 
 ![image](https://github.com/Surendranv15/Covid-Tracker/assets/172268026/174ef7a6-05c5-46fe-806b-78638015df35)
+## Tech Stack and Dependencies
+
+<br>
+<div align="center">
+
+| <div align ="center">Name </div>                    | <div align = "center">Description</div>              |
+| --------------------------------------------------- | ---------------------------------------------------- |
+| **[ReactJs](https://reactjs.org)**                  | Front End                                            |
+| **[MUI](https://mui.com/getting-started/usage/)**   | React UI library                                     |
+| **[Axios](https://axios-http.com/docs/intro)**      | Promise based HTTP client for the browser and NodeJs |
+| **[Disease.sh](https://corona.lmao.ninja/)**        | Open Disease Data API                                |
+| **[ChartJs](https://www.chartjs.org/docs/latest/)** | Open source JavaScript data visualization library    |
+| **[LeafletJs](https://leafletjs.com/)**             | Open source JavaScript maps library                  |
+
+</div>
